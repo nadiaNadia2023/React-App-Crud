@@ -8,11 +8,7 @@ import {
   Button,
 } from "@mui/material";
 import AccountBoxIcon from "@mui/icons-material/AccountBox";
-import About from "../About";
-import Contacts from "../Contacts";
-import App from "../../App";
-import { ReactDOM } from "react";
-import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
+import { BrowserRouter as Link } from "react-router-dom";
 
 export default function Navbar() {
   return (

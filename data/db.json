@@ -1,15 +1,28 @@
-{"Contacts" :[
-     {
-        "id":1,
-        "name":"Mohamed Ahiyad",
-        "email":"mohamed@orange.com",
-        "phone": "06 66 66 66 66"
-     },
-     {
-        "id":2,
-        "name":"Nadia Ait Mouh",
-        "email":"Nadia@orange.com",
-        "phone": "06 64 64 64 64"
-     }
-]
+{
+  "Contacts": [
+    {
+      "id": 1,
+      "name": "Mohamed Ahiyad",
+      "email": "mohamed@orange.com",
+      "phone": "06 66 66 66 66"
+    },
+    {
+      "id": 2,
+      "name": "Nadia Ait Mouh",
+      "email": "mohamed@orange.com",
+      "phone": "06 66 66 66 66"
+    },
+    {
+      "id": 3,
+      "name": "Mohamed Ahiyad",
+      "email": "mohamed@orange.com",
+      "phone": "06 66 66 66 66"
+    },
+    {
+      "id": 4,
+      "name": "Nadia Ait Mouh",
+      "email": "mohamed@orange.com",
+      "phone": "06 66 66 66 66"
+    }
+  ]
 }
